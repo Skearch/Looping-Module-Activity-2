@@ -1,0 +1,14 @@
+C:\Users\Skearch\source\repos\LoopingModuleActivity2\bin\Debug\net8.0\LoopingModuleActivity2.exe
+C:\Users\Skearch\source\repos\LoopingModuleActivity2\bin\Debug\net8.0\LoopingModuleActivity2.deps.json
+C:\Users\Skearch\source\repos\LoopingModuleActivity2\bin\Debug\net8.0\LoopingModuleActivity2.runtimeconfig.json
+C:\Users\Skearch\source\repos\LoopingModuleActivity2\bin\Debug\net8.0\LoopingModuleActivity2.dll
+C:\Users\Skearch\source\repos\LoopingModuleActivity2\bin\Debug\net8.0\LoopingModuleActivity2.pdb
+C:\Users\Skearch\source\repos\LoopingModuleActivity2\obj\Debug\net8.0\LoopingModuleActivity2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Skearch\source\repos\LoopingModuleActivity2\obj\Debug\net8.0\LoopingModuleActivity2.AssemblyInfoInputs.cache
+C:\Users\Skearch\source\repos\LoopingModuleActivity2\obj\Debug\net8.0\LoopingModuleActivity2.AssemblyInfo.cs
+C:\Users\Skearch\source\repos\LoopingModuleActivity2\obj\Debug\net8.0\LoopingModuleActivity2.csproj.CoreCompileInputs.cache
+C:\Users\Skearch\source\repos\LoopingModuleActivity2\obj\Debug\net8.0\LoopingModuleActivity2.dll
+C:\Users\Skearch\source\repos\LoopingModuleActivity2\obj\Debug\net8.0\refint\LoopingModuleActivity2.dll
+C:\Users\Skearch\source\repos\LoopingModuleActivity2\obj\Debug\net8.0\LoopingModuleActivity2.pdb
+C:\Users\Skearch\source\repos\LoopingModuleActivity2\obj\Debug\net8.0\LoopingModuleActivity2.genruntimeconfig.cache
+C:\Users\Skearch\source\repos\LoopingModuleActivity2\obj\Debug\net8.0\ref\LoopingModuleActivity2.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopingModuleActivity2", "LoopingModuleActivity2.csproj", "{C9DD3C59-6495-4296-A29F-F4DB10F088EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9DD3C59-6495-4296-A29F-F4DB10F088EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9DD3C59-6495-4296-A29F-F4DB10F088EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9DD3C59-6495-4296-A29F-F4DB10F088EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9DD3C59-6495-4296-A29F-F4DB10F088EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {067FC560-D6C1-4897-8DD5-2F9318B99352}
+	EndGlobalSection
+EndGlobal
